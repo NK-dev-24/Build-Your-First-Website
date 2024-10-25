@@ -1,2 +1,2 @@
 # Build-Your-First-Website
-It's for The GDGC Event Project files
+Repository for The GDGC Build your first website Event Learing & Project files
