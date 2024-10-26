@@ -8,3 +8,11 @@ input {
     display: block;
     width: 400px;
 }
+
+div{
+    background-color: black;
+}
+
+div{
+    background-color: aqua;
+}
